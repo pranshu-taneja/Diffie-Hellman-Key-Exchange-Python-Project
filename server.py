@@ -239,7 +239,7 @@ while True:
 	print("CLIENT -",rec_msg,"    //",cipher_decrypt(rec_msg, SECRET_KEY))
 # ---------------->>THE SERVER CODE<<-----------------
 
-	
+	print("pranshu");
 
 		
 	
